@@ -94,7 +94,7 @@ firebase==3.0.1
 flaml==0.5.12
 flask-restful==0.3.9
 flask-simple-geoip==0.2.4
-flask==2.0.1
+flask==2.2.5
 fonttools==4.25.0
 fsspec==2021.7.0
 furl==2.1.2

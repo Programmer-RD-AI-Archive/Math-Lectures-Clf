@@ -276,7 +276,7 @@ pycosat==0.6.3
 pycparser==2.20
 pycrypto==2.6.1
 pycurl==7.43.0.6
-pydantic==1.8.2
+pydantic==1.10.13
 pydeck==0.6.2
 pydot==1.4.2
 pyerfa==2.0.0
